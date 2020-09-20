@@ -17,6 +17,7 @@ Popups are included that provide additional information about the earthquake whe
 A legend provides context for the map data.
 
 <div align="center">Level 1: Basic Visualization</div>
+
 ![image](images/Screenshot1.jpg)
 
 
