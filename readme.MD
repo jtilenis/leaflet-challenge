@@ -20,6 +20,19 @@ A legend provides context for the map data.
 
 ![image](images/Screenshot1.jpg)
 
+# Leaflet-Step-2
+In this step a second data set is plotted on the map to illustrate the relationship between tectonic plates and seismic activity. The second data set is visualized along  side the original set of data. Data on tectonic plates found at https://github.com/fraxen/tectonicplates were used.
+
+A number of base maps were added to choose from and the two different data sets were added as overlays that can be turned on and off independently.
+
+Layer controls were added to the map.
+
+**<div align="center">Level 2: More Data</div>**
+
+![image](images/Screenshot2.jpg)
+
+
+
 
 
 
