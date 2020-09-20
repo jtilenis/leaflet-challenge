@@ -15,6 +15,8 @@ This step visualizes an earthquake data set on a greyscale map. Leaflet is used 
 The data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appear larger and darker in color.
 Popups are included that provide additional information about the earthquake when a marker is clicked.
 A legend provides context for the map data.
+
+<div align="center">Level 1: Basic Visualization
 ![image](images/Screenshot1.jpg)
 
 
